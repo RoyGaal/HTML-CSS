@@ -1,0 +1,96 @@
+/* css file blah */
+ol{
+    list-style-type: upper-roman;
+}
+
+h1,h2,h3,h4,h5,h6{
+     color:blue;
+    
+}
+nav{
+    background-color:#00ff00;
+}
+nav a{
+    text-decoration: none;
+    font-weight: bold;
+    color:red;
+   
+}
+nav li{
+     list-style-type: none;
+      display:inline;
+      padding: 3em;
+}
+
+img{
+    max-width: 100%;
+    border-radius: 50%;
+    
+}
+h1.center{
+    text-align: center;
+}
+body{
+    color:#444444;
+    background-color: #FFCCCC;
+}
+footer{
+    font-size: .7em;
+    text-align: center;
+    display: block;
+    background-color: darkgrey;
+    color:#FFFFFF;
+    font-family: Arial, sans-serif;
+    padding-top:.5em;
+    padding-bottom:.5em;
+    letter-spacing: .2em;
+    word-spacing: .2em;
+    
+}
+#frogs{
+    background-color:#00FF00;
+}
+#unicorns{
+    background-color:#FF8888;
+}
+#robunis{
+    background-color:#FF00FF;
+}
+#dragons{
+    background-color:#FF0000;
+}
+#owls{
+    background-color:orange;
+}
+section{
+    border-top-style:solid;
+    border-bottom-style:solid;
+    border-color:blue;
+    border-width: thin;
+    padding: 3px;
+}
+header{
+    //make something up
+}
+.highlight{
+    color: red;
+}
+
+
+p{
+	  color: blue;
+      background-color: white;
+      font-family: courier;
+      font-size: 32px;
+      border: 3px solid black;
+}
+p2{
+	  color: black;
+      background-color: lightgray;
+      font-family: courier;
+      font-size: 16px;
+      border: 1px solid black;
+}
+
+
+
